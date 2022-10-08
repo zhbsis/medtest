@@ -1,0 +1,21 @@
+v 2.0.0
+d 'MDETEST' module perform the mediation test with a moderator.
+d
+d
+d KW: mediation effect
+d KW: two-way fixed effect
+d KW: moderate effect
+d
+d Requires: Stata version 14.1
+d
+d Distribution-Date: 20220322
+d
+d Author: Hongbing Zhu. Business School, Hohai University, China
+d Support: email zhuhong_bing@163.com
+d
+d
+f medtest.ado
+d
+d
+
+

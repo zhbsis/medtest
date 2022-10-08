@@ -1,0 +1,9 @@
+v 2.0.0
+d Materials by Hongbing Zhu
+d Business School, Hohai University, China
+d zhuhong_bing@163.com
+d https://github.com/zhbsis
+
+d 'medtest': module perform the mediation test with a moderator.
+
+p medtest
